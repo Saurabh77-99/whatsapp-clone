@@ -1,0 +1,6 @@
+npx create-expo-app --template
+npm install @react-navigation/native
+npx expo install  react-native-screens    react-native-safe-area-content
+npm install @react-navigation/material-top-tabs   react-native-tab-view
+npx expo install react-native-pager-view
+npm i react-native-vector-icons
